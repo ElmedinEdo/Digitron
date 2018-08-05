@@ -40,7 +40,7 @@ public class Digitron {
 	}
 	// Oduzimanje
 	public static int oduzimanje(int broj1, int broj2) {
-		return 0;
+		return (broj1-broj2);
 	}
 
 	// Množenje
